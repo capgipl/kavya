@@ -1,8 +1,6 @@
-﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Add_Team.aspx.cs" Inherits="Employee.Account.Team.Add_Team" %>
-<%@ MasterType VirtualPath="~/Site.Master" %>
+﻿<%@ Page Title="" Language="C#" MasterPageFile="~/Site.Master" AutoEventWireup="true" CodeBehind="Add_Schedule.aspx.cs" Inherits="Employee.Account.Schedule.Add_Schedule" %>
 <asp:Content ID="Content1" ContentPlaceHolderID="MainContent" runat="server">
-   
-   <div class="media">
+     <div class="media">
     <%--<div class="media-left media-middle">
       <img src="C:\Users\kapudi\Pictures\Sample Pictures\Desert.ipg" class="media-object" style="width:60px">
     </div>--%>
